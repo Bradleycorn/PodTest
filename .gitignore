@@ -1,0 +1,48 @@
+
+### JetBrains template
+# Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm, CLion, Android Studio and Webstorm
+# Reference: https://intellij-support.jetbrains.com/hc/en-us/articles/206544839
+
+# User-specific stuff:
+.idea
+
+## File-based project format:
+*.iws
+*.iml
+*.ipr
+
+## Plugin-specific files:
+
+# IntelliJ
+
+### Maven template
+build
+.gradle
+.DS_Store
+
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+!gradle/wrapper/gradle-wrapper.jar
+
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+/local.properties
+
+classes
