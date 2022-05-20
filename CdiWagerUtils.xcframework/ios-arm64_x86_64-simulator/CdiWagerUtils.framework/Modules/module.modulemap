@@ -1,0 +1,6 @@
+framework module CdiWagerUtils {
+    umbrella header "CdiWagerUtils.h"
+
+    export *
+    module * { export * }
+}
