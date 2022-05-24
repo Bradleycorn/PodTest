@@ -69,7 +69,7 @@ kotlin {
 
             // Optional properties
             // Dynamic framework support
-            isStatic = false
+            isStatic = true
             // Dependency export
             //export(project(":anotherKMMModule"))
             //transitiveExport = false // This is default.
